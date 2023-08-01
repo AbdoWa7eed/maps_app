@@ -1,16 +1,14 @@
-# maps_app
+# MapsApp
 
-A new Flutter project.
+It's a simple app to use Google Maps and I'd like to share it with you.
 
-## Getting Started
+## Using :
+- Flutter framework
+- Bloc state management (Cubit)
+- Clean Architecture Pattern
+- Firebase (OTP Auth - Storage - Firestore)
+- Google Maps API
+- Dio package
+- Sqflite
+- Localization (English - Arabic)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
