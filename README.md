@@ -9,7 +9,7 @@ A simple yet powerful application that leverages Google Maps to provide seamless
 - **Authentication:** Firebase OTP-based authentication for secure login and registration.
 - **Data Storage:** Firebase Firestore for cloud data storage and Sqflite for local data persistence.
 - **Localization:** Fully supports both English and Arabic languages.
-- **Google Maps Integration:** Features include location detection, map navigation, and marker placement using Google Maps API.
+- **Google Maps Integration:** Features include location detection, distance and time calculation, and marker placement using Google Maps API.
 
 
 
