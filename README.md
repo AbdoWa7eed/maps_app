@@ -58,8 +58,7 @@ A simple yet powerful application that leverages Google Maps to provide seamless
 We welcome contributions! Fork the repository, make your changes, and submit a pull request.
 
 ## 📬 Contact
-For any inquiries or support, please reach out to Abdelrahman Waheed.
-
+For any inquiries, please reach out to [Abdelrahman Waheed](https://github.com/AbdoWa7eed).
 ## 📹 Demo 
 
 https://github.com/user-attachments/assets/847c0a82-711a-46bf-afab-e82f5eab6464
